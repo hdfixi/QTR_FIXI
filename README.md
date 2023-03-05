@@ -25,3 +25,4 @@ Pololu's website.
 * 2.0.2 (2013-04-17): Made constructors initialize pointers to avoid possible problems.
 * 2.0.1 (2012-09-13): Added a 200 us delay after emitter state changes to ensure sensors do not start being sampled before the LEDs turn on/off.
 * 2.0.0 (2012-02-14): Initial release of library on GitHub (with Arduino 1.0 compatibility).
+# QTR_FIXI
